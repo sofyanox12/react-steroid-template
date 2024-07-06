@@ -1,10 +1,10 @@
-### A Steroid React Template.
+### A Steroid 💉 React Template.
 
-Template for big react projects, bundled by vite, buffed as steroids.
+Template for big react projects, bundled by Vite, buffed as steroids.
 
 ##### **_Important Note: Please Use `pnpm` Package Manager for a better experience with this template!_**
 
-#### Major Packages included:
+#### 💪 - Major Packages included:
 ---
 1. [Tailwind CSS](https://tailwindcss.com/) - For quick class styling.
 2. [Mantine](https://mantine.dev/) - For UI Components and some decent hooks.
@@ -13,21 +13,25 @@ Template for big react projects, bundled by vite, buffed as steroids.
 5. [React Router](https://reactrouter.com/en/main) - For routing in react.
 6. [Zod](https://zod.dev/) - For input/data validations.
 
-#### Available Commands:
+#### 💪 - Available Commands:
 ---
-1. Run Development Server
+1. Install dependencies
+```
+pnpm install
+```
+2. Run Development Server (only for local)
 ```
 pnpm dev
 ```
-2. Format the project
+3. Format the project (warning: your code will be overwritten)
 ```
 pnpm format
 ```
-3. Check the coding format & build (is the commit eligible for production?)
+4. Check the coding format & build (is the commit eligible for production?)
 ```
 pnpm check
 ```
 
 ---
 
-All made with ❤️ by: **[@sofyanox12](https://github.com/sofyanox12)**
+All made with 💉 by: **[@sofyanox12](https://github.com/sofyanox12)**
