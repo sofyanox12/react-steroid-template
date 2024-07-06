@@ -13,7 +13,7 @@ const GeneralHomePage = () => {
                     />
                     <Stack className="gap-2 text-center">
                         <Text className="font-bold text-xl">
-                            React 20 + Vite + Tailwind CSS + Mantine
+                            React + Vite + Tailwind CSS + Mantine
                         </Text>
                         <Text>
                             {'by '}
