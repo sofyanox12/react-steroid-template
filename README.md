@@ -1,8 +1,10 @@
-## @sofyanox12's React Remplate for big projects.
+### A Steroid React Template.
 
-**Important Note: Please Use `pnpm` Package Manager for better experience with this template!**
+Template for big react projects, bundled by vite, buffed as steroids.
 
-##### Major packages included:
+##### **_Important Note: Please Use `pnpm` Package Manager for a better experience with this template!_**
+
+#### Major Packages included:
 ---
 1. Tailwind CSS - For quick class styling.
 2. Mantine - For UI Components and Great Hooks.
@@ -11,7 +13,7 @@
 5. React Router - For routing in react.
 6. Zod - For input/data validations.
 
-##### Available configured commands:
+#### Available Commands:
 ---
 1. Run Development Server
 ```
@@ -25,3 +27,7 @@ pnpm format
 ```
 pnpm check
 ```
+
+---
+
+All made with ❤️ by: _[@sofyanox12](htttps://github.com/sofyanox12)_
