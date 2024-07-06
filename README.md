@@ -23,7 +23,7 @@ pnpm dev
 ```
 pnpm format
 ```
-3. Check the format (is Eligible for production)
+3. Check the coding format & build (is the commit eligible for production?)
 ```
 pnpm check
 ```
