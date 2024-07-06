@@ -6,12 +6,12 @@ Template for big react projects, bundled by vite, buffed as steroids.
 
 #### Major Packages included:
 ---
-1. Tailwind CSS - For quick class styling.
-2. Mantine - For UI Components and Great Hooks.
-3. Axios - For http request handlers.
-4. Tanstack Query - For caching fetched/requested data.
-5. React Router - For routing in react.
-6. Zod - For input/data validations.
+1. [Tailwind CSS](https://tailwindcss.com/) - For quick class styling.
+2. [Mantine](https://mantine.dev/) - For UI Components and some decent hooks.
+3. [Axios](https://axios-http.com/) - For http request handlers.
+4. [Tanstack Query](https://tanstack.com/query/latest) - For caching fetched/requested data.
+5. [React Router](https://reactrouter.com/en/main) - For routing in react.
+6. [Zod](https://zod.dev/) - For input/data validations.
 
 #### Available Commands:
 ---
@@ -30,4 +30,4 @@ pnpm check
 
 ---
 
-All made with ❤️ by: _[@sofyanox12](htttps://github.com/sofyanox12)_
+All made with ❤️ by: **[@sofyanox12](https://github.com/sofyanox12)**
